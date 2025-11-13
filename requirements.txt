@@ -1,0 +1,9 @@
+streamlit>=1.25.0
+torch
+torchvision
+timm
+opencv-python-headless
+gdown
+Pillow
+streamlit-webrtc>=0.40.0   # لو هتستخدم app_webrtc.py (اختياري)
+av                       # for streamlit-webrtc (may be heavy)
